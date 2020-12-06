@@ -1,0 +1,19 @@
+{
+  "name": "health-insurance-simulator",
+  "version": "0.0.1",
+  "description": "Library to assist with simulating and comparing health insurance costs",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gagebenne/health-insurance-simulator"
+  },
+  "author": "Gage Benne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gagebenne/health-insurance-simulator/issues"
+  },
+  "homepage": "https://github.com/gagebenne/health-insurance-simulator#README.md"
+}
